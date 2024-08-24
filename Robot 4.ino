@@ -1,4 +1,4 @@
-//4.Controlling Robot Using Esp32Bluetooth 
+//Controlling Robot Using Esp32Bluetooth 
 #include "BluetoothSerial.h"
 
 // Motor pins

@@ -1,4 +1,4 @@
-//2.Autonomous Robot with ULTRASONIC SENSOR ,Servo Motor and ESP32,L298N
+//Autonomous Robot with ULTRASONIC SENSOR ,Servo Motor and ESP32,L298N
 
 #include <Servo.h>
 

@@ -1,4 +1,4 @@
-//1.Autonomous Robot with ULTRASONIC SENSOR and ESP32,L298N
+//Autonomous Robot with ULTRASONIC SENSOR and ESP32,L298N
 int in1 = 14;
 int in2 = 27;
 int in3 = 26;
