@@ -1,5 +1,3 @@
-#include <Arduino.h>
-
 #define IN1 14
 #define IN2 27
 #define IN3 26
